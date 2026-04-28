@@ -1,0 +1,16 @@
+{
+  "name": "practice-21-redis-cache",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Redis Cache",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.21.0",
+    "jsonwebtoken": "^9.0.2",
+    "redis": "^4.7.0"
+  }
+}
